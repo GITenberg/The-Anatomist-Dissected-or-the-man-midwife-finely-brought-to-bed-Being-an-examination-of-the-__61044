@@ -1,11 +1,16 @@
 _repo: The-Anatomist-Dissected-or-the-man-midwife-finely-brought-to-bed-Being-an-examination-of-the-__61044
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61044-h/images/cover.jpg
 creator:
   author:
     agent_name: Gulliver, Lemuel
     gutenberg_agent_id: '51234'
     url: http://www.gutenberg.org/2009/agents/51234
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61044#The-Anatomist-Dissected-or-the-man-midwife-finely-brought-to-bed-Being-an-examination-of-the-_
 gutenberg_issued: '2019-12-29'
 gutenberg_type: Text
 identifiers:
